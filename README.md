@@ -1,7 +1,8 @@
 # README
-Though I have created the basic app structure to get some factories, and all the base code lies in lib/services/.
+Though I have created the basic app structure to get some factories, the base code lies in lib/services/.
 
 The base file which contains discrepancy calculation is:
+
   lib/services/campaign_discrepancy.rb,
  and the corresponding specs for the scenarios are included in:
   spec/lib/services/campaign_discrepancy_spec.rb
